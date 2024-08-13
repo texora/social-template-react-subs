@@ -33,9 +33,3 @@ For more details, read [here](https://vercel.com/guides/deploying-nextjs-with-ve
 - Read Quick Reference Guide [here](https://docs.subsocial.network/docs/develop/quick-reference)
 - Check Detailed How-To Guide [here](https://docs.subsocial.network/docs/develop/how-to-guides/connectToSubsocial)
 
-### Support Channels
-
-Subsocial is project built by __developers for developers__. We love supporting devs building on our SDK. Join our communication channels for all sorts of doubts, discussions, and networking:
-
-- Discord: https://discord.gg/tshXXtqb
-- Telegram: https://t.me/+ZzvLu0ZfkQwxNGQy
